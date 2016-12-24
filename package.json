@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/codevelopit/zapple/issues"
   },
-  "homepage": "https://github.com/codevelopit/zapple#readme"
+  "homepage": "https://github.com/codevelopit/zapple#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
